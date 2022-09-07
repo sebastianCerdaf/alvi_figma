@@ -1,4 +1,4 @@
-package com.proyecto.dogapi.presentation.activity
+package com.example.myapplication.presentation.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
